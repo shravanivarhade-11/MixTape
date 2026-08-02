@@ -2,7 +2,7 @@
 
 A console-based music player app built in Java, using a binary search tree to organize per-user playlists. Includes playback controls, listening history, a "Vibe Match" feature that compares musical taste between friends, and a liked-songs (heart) system.
 
-> Design mockups (five screens — Welcome, Home, Playlist, Now Playing, Vibe Match) are available in Figma: *add your Figma link here*
+
 
 ## Features
 
